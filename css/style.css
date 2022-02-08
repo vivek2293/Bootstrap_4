@@ -45,6 +45,13 @@ address{
     color:#0f0f0f;
 }
 
+.btn-group input[type = radio]{
+    display: none;
+}
+.btn-group input[type=radio]:checked + label{
+    border: 2px solid black;
+}
+
 .carousel {
     background:#512DA8;
 }
