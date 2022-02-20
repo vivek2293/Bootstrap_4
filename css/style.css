@@ -14,6 +14,14 @@ body{
     color:floralwhite;
 }
 
+.modal-header{
+    background:#512DA8;
+}
+
+.modal-content{
+    background:#D1C4E9;
+}
+
 #carouselButton {
     right:0px;
     position: absolute;
